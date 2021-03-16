@@ -1,0 +1,2 @@
+scotty  slots=1 max_slots=12
+spock slots=1 max_slots=12

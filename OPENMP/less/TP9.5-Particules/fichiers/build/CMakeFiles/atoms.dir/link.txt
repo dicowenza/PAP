@@ -1,0 +1,1 @@
+/usr/bin/cc     CMakeFiles/atoms.dir/src/main.c.o CMakeFiles/atoms.dir/src/tools.c.o  -o ../bin/atoms -Wl,-rpath,/autofs/unityaccount/cremi/adiallo004/Bureau/OPENMP/TP9.5-Particules/fichiers/build/libsotl -rdynamic libsotl/libsotl.so -lOpenCL -lm -lgomp -lGLU -lGL -lglut -lXmu -lXi 
